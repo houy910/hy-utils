@@ -49,3 +49,4 @@ describe('isEmpty', () => {
     expect(isEmpty([1])).toBeFalsy();
   });
 });
+
